@@ -1,0 +1,26 @@
+{
+  "name": "kuttas",
+  "version": "1.0.0",
+  "description": "my firt node express projects",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/loveitdoit/kuttas.git"
+  },
+  "keywords": [
+    "Jesse10726"
+  ],
+  "author": "Joker",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/loveitdoit/kuttas/issues"
+  },
+  "homepage": "https://github.com/loveitdoit/kuttas#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "express3-handlebars": "^0.5.2"
+  }
+}
