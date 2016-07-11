@@ -20,7 +20,12 @@
   },
   "homepage": "https://github.com/loveitdoit/kuttas#readme",
   "dependencies": {
+    "eslint": "^3.0.1",
     "express": "^4.14.0",
     "express3-handlebars": "^0.5.2"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.5.3"
   }
 }
